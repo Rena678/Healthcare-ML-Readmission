@@ -193,7 +193,7 @@ This project includes a **GitHub Actions CI/CD pipeline** that automatically tes
 
 ##  Notebook
 
-The main analysis is in `Healthcare_ML_Notebook.ipynb`, structured as follows:
+The main analysis is in `Healthcare.ipynb`, structured as follows:
 
 | Section | Content |
 |---------|---------|
