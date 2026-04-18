@@ -223,7 +223,7 @@ cd Healthcare-ML-Readmission
 pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn
 
 # Open the notebook
-jupyter notebook Healthcare_ML_Notebook.ipynb
+jupyter notebook Healthcare.ipynb
 ```
 
 Or run directly in **Google Colab**:
