@@ -1,4 +1,4 @@
-# 🏥 Healthcare Predictive Analytics — Patient Readmission Prediction
+#  Healthcare Predictive Analytics — Patient Readmission Prediction
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ---
 
-##📋 Project Overview
+## Project Overview
 
 This project was developed for **HealthGuard** (via MediTech Solutions) to predict the likelihood of **patient readmission within 30 days** of hospital discharge. Early identification of high-risk patients enables targeted interventions that improve patient outcomes and reduce preventable readmissions.
 
@@ -46,7 +46,7 @@ This project was developed for **HealthGuard** (via MediTech Solutions) to predi
 
 ---
 
-## 📊 Model Performance Results
+##  Model Performance Results
 
 | Algorithm | Accuracy | F1-Score | ROC-AUC | Bias-Variance |
 |-----------|----------|----------|---------|---------------|
